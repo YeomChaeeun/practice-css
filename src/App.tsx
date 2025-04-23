@@ -29,7 +29,6 @@ const Count = styled.p`
 function App() {
   const [count, setCount] = useState(0);
 
-  // return <div className={testStyle}>Test</div>;
   return (
     <div className={container}>
       <h1 className={title}>Vite + React + TypeScript with Vanilla Extract & Emotion</h1>
