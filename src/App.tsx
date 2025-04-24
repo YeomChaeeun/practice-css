@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import styled from '@emotion/styled';
-import Button from './components/Button';
+import Button from './components/ui/Button.tsx';
 import { container, title } from './styles/global.css.ts';
 
 // Using Emotion for component-specific styles
