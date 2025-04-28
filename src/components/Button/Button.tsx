@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from '@emotion/styled';
 import { css } from '@emotion/react';
-import { primaryButton, secondaryButton, animatedButton } from '../../styles/button.css.ts';
+import { primaryButton, secondaryButton, animatedButton } from './button.css.ts';
 
 // Define props for our Button component
 interface ButtonProps {
